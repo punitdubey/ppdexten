@@ -1,0 +1,6 @@
+{
+	"name": "punit_new_extension",
+	"version":"2.0",
+	"description" : "Base Level Extension",
+	"manifest_version":2
+}
